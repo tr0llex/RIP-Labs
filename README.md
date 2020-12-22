@@ -9,5 +9,6 @@
 
 ## Лабораторные работы
 * [Рубежный контроль №1](https://github.com/tr0llex/RIP-Labs/tree/main/RK1)
+* [Рубежный контроль №2](https://github.com/tr0llex/RIP-Labs/tree/main/RK2)
 
 * [Лабораторная работа №1 (временно отсутствует)](https://github.com/tr0llex/RIP-Labs)
